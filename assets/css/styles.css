@@ -1,0 +1,184 @@
+.topfirstimage {
+  background-image: url("../../assets/img/Women%20Making%20Salad%20In%20Kitchen%20After%20Doing%20Exercise.jpg");
+  height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 1px 1px 10px;
+}
+
+.excerpt {
+  color: rgba(0,0,0,0.59);
+  margin-top: 10px;
+}
+
+h2 {
+}
+
+.mb-3.d-flex.align-items-center.neo {
+  border: 0;
+  /*border-radius: 0%;*/
+  box-shadow: 2px 2px 2px rgba(0,0,0,.2),-2px -2px 2px rgba(255,255,255,.05),inset 0 0 0 rgba(0,0,0,0),inset 0 0 0 rgba(255,255,255,0);
+  transition: .3s ease-out;
+  cursor: pointer;
+  outline: none;
+}
+
+.mb-3.d-flex.align-items-center.neo:hover {
+  box-shadow: 0 0 0 rgba(0,0,0,.2),0 0 0 rgba(255,255,255,0),inset 2px 2px 2px rgba(0,0,0,.2),inset -2px -2px 2px rgba(255,255,255,.5);
+}
+
+.col-md-6.neo {
+  /*border: double rgba(180,139,32,0.46);*/
+  box-shadow: 5px 5px 5px rgba(0,0,0,.2),-5px -5px 5px rgba(255,255,255,.05),inset 0 0 0 rgba(0,0,0,0),inset 0 0 0 rgba(255,255,255,0);
+  /*box-shadow: -6px -6px 15px rgba(255,255,255,1),-6px -6px 20px rgba(255,255,255,.5),inset 6px 6px 10px rgba(255,255,255,.1), 6px 6px 15px rgba(0,0,0,.15);*/
+  transition: .3s ease-out;
+  cursor: pointer;
+  outline: none;
+}
+
+.col-md-6.neo:hover {
+  box-shadow: 0 0 0 rgba(0,0,0,.2),0 0 0 rgba(255,255,255,0),inset 2px 2px 2px rgba(0,0,0,.2),inset -2px -2px 2px rgba(255,255,255,.5);
+}
+
+.btn.btn-primary.btn-lg.subscribe2:hover {
+  background: rgba(223,205,29,0.71);
+  color: rgb(255,255,255);
+  box-shadow: 0 0 5px #f3fafa,0 0 25px #f3fafa,0 0 50px #f3fafa,0 0 25px #eae7ca;
+}
+
+.btn.btn-primary.btn-lg.subscribe:hover {
+  background: rgba(223,205,29,0.71);
+  color: rgb(255,255,255);
+  box-shadow: 0 0 5px #f3fafa,0 0 25px #f3fafa,0 0 50px #f3fafa,0 0 100px #eae7ca;
+}
+
+.btn.btn-primary.btn-lg.subscribe2 {
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+  margin: 0px 0;
+  background: rgba(159,145,17,0.22);
+  font-size: 24px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  letter-spacing: 4px;
+  border-color: white;
+}
+
+.btn.btn-primary.btn-lg.subscribe {
+  position: relative;
+  display: inline-block;
+  padding: 25px 30px;
+  margin: 40px 0;
+  background: rgba(159,145,17,0.22);
+  font-size: 24px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  letter-spacing: 4px;
+  border-color: white;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  /*color: #fff;*/
+  /*background-color: #0062cc;*/
+  border-color: #eae7ca;
+}
+
+.card-body.neo {
+  border: 0;
+  border-radius: 0%;
+  box-shadow: 2px 2px 2px rgba(0,0,0,.2),-2px -2px 2px rgba(255,255,255,.05),inset 0 0 0 rgba(0,0,0,0),inset 0 0 0 rgba(255,255,255,0);
+  transition: .3s ease-out;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid rgba(234,231,202,0.7);
+}
+
+.card-body.neo:hover {
+  box-shadow: 0 0 0 rgba(0,0,0,.2),0 0 0 rgba(255,255,255,0),inset 2px 2px 2px rgba(0,0,0,.2),inset -2px -2px 2px rgba(255,255,255,.5);
+}
+
+.col-md-6.col-lg-8.offset-lg-0.slider:hover {
+  /*background: rgb(255,255,255);*/
+  box-shadow: -6px -6px 15px rgba(255,255,255,1),-6px -6px 20px rgba(255,255,255,.5),inset 6px 6px 10px rgba(255,255,255,.1), 6px 6px 15px rgba(0,0,0,.15);
+  box-shadow: 0 0 5px #f3fafa,0 0 25px #f3fafa,0 0 50px #f3fafa,0 0 150px #070606;
+  box-shadow: 0 0 0 rgba(0,0,0,.2),0 0 0 rgba(255,255,255,0),inset 2px 2px 2px rgba(0,0,0,.2),inset -2px -2px 2px rgba(255,255,255,.5);
+}
+
+.col-md-6.col-lg-8.offset-lg-0.slider {
+  background: rgb(255,255,255);
+  box-shadow: -6px -6px 15px rgba(255,255,255,1),-6px -6px 20px rgba(255,255,255,.5),inset 6px 6px 10px rgba(255,255,255,.1), 6px 6px 15px rgba(0,0,0,.15);
+  box-shadow: 0 0 5px #f3fafa,0 0 25px #f3fafa,0 0 50px #f3fafa,0 0 50px rgb(255,255,255);
+  transition: .9s ease-out;
+  border: 1px solid rgba(234,231,202,0.7);
+}
+
+.d-lg-flex.w-100 {
+  box-shadow: 2px 2px 5px;
+}
+
+#blog-image {
+  color: rgb(13,13,13);
+}
+
+#heading-section {
+  background: url("../../assets/img/Strawberries%20And%20Berries%20Bowl%20Against%20White%20Background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+ol.list-featured {
+  counter-reset: my-awesome-counter;
+  list-style: none;
+  padding-left: 0;
+}
+
+ol.list-featured li {
+  counter-increment: my-awesome-counter;
+  display: flex;
+  font-size: 0.8rem;
+}
+
+ol.list-featured li:before {
+  content: "0" counter(my-awesome-counter);
+  font-weight: bold;
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  font-family: Arial;
+  line-height: 1;
+  opacity: .1;
+}
+
+.mb-5.d-flex.justify-content-between.main-loop-card.p-0.neo:hover {
+  box-shadow: 0 0 0 rgba(0,0,0,.2),0 0 0 rgba(255,255,255,0),inset 2px 2px 2px rgba(0,0,0,.2),inset -2px -2px 2px rgba(255,255,255,.5);
+}
+
+.col-md-3.pr-0.text-right.p-0.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.col-md-3.pr-0.text-right.p-0.fill img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%};
+}
+
+.highlight-phone.p-4 {
+  background: url("../../assets/img/Strawberries%20And%20Berries%20Bowl%20Against%20White%20Background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container.dark-overlay {
+  background: rgb(0,0,0);
+}
+
